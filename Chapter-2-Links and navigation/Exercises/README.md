@@ -8,8 +8,7 @@ For each exercise you should create a new folder with the name of the exercise a
 
 
 ### One-page website :ballot_box_with_check:
-
-Pick a television series, film or game and design a really simple one-page website (just text, no images). Your website should include:
+pick a television series, film or game and design a really simple one-page website (just text, no images). Your website should include:
 
 * An overview of the plot, key information, cast and/or creative team, characters and any reviews you can find. 
 * A nav bar at the top which allows the user to quickly navigate to sections further down the page (anchor Ids).
